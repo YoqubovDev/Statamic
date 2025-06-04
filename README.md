@@ -41,3 +41,13 @@ In order to ensure that the Statamic community is welcoming to all and generally
 [discord]: https://statamic.com/discord
 [contribution]: https://github.com/statamic/cms/blob/master/CONTRIBUTING.md
 [cms-repo]: https://github.com/statamic/cms
+
+
+for run code 
+
+composer create-project statamic/statamic my-site
+cd my-site
+php artisan serve
+![image](https://github.com/user-attachments/assets/1f96e168-8f9c-4a38-b6ef-80283251f4c2)
+
+
